@@ -1,0 +1,11 @@
+* Incarnations
+This is a free and open-source (FOSS) curation of incarnations that can be
+used as chatbots.
+
+| License | Discord server invite         |
+|---------+-------------------------------|
+| =GPL-3= | https://discord.gg/JwKGbAdNHR |
+
+See the =incarnations= repo for detailed documentation.
+
+http://github.com/semiosis/incarnations
